@@ -1,0 +1,26 @@
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 71 : symbol 'RB1hasData' has not been defined
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 75 : symbol 'app' has not been defined
+Error[1151] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 75 : struct or union object designator expected
+Error[1129] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 75 : [] operator requires a pointer and an integer as operands
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 75 : symbol 'PORTB1_CODE' has not been defined
+Error[1101] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 75 : lvalue required
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 76 : symbol 'app' has not been defined
+Error[1151] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 76 : struct or union object designator expected
+Error[1129] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 76 : [] operator requires a pointer and an integer as operands
+Error[1101] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 76 : lvalue required
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 78 : symbol 'app' has not been defined
+Error[1151] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 78 : struct or union object designator expected
+Error[1101] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 78 : lvalue required
+Warning[2054] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 78 : suspicious pointer conversion
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 80 : symbol 'RB0hasData' has not been defined
+Error[1101] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 80 : lvalue required
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 85 : symbol 'RB0hasData' has not been defined
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 89 : symbol 'app' has not been defined
+Error[1151] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 89 : struct or union object designator expected
+Error[1129] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 89 : [] operator requires a pointer and an integer as operands
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 89 : symbol 'PORTB0_CODE' has not been defined
+Error[1101] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 89 : lvalue required
+Error[1105] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 90 : symbol 'app' has not been defined
+Error[1151] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 90 : struct or union object designator expected
+Error[1129] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 90 : [] operator requires a pointer and an integer as operands
+Error[1101] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\application\app.c 90 : lvalue required

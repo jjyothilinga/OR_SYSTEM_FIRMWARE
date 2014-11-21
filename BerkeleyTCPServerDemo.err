@@ -1,0 +1,3 @@
+Warning[2054] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\TCPIP\BerkeleyTCPServerDemo.c 170 : suspicious pointer conversion
+Warning[2054] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\TCPIP\BerkeleyTCPServerDemo.c 199 : suspicious pointer conversion
+Warning[2054] D:\jo\Ideonics\Repository\OR_SYSTEM_FIRMWARE\OR_SYSTEM_FIRMWARE\TCPIP\BerkeleyTCPServerDemo.c 208 : suspicious pointer conversion
